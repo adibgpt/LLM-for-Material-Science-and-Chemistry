@@ -56,6 +56,8 @@ The projects developed during the hackathon addressed challenges in **seven core
    Extracting structured data from unstructured scientific literature.  
    Example: Building knowledge graphs for lithium-ion battery research.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/62e3f951770fdc8b32953628dd30263b23b0d8c8/Images/Picture19.png)
+
 ---
 
 ## Hackathon Highlights
