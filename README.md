@@ -40,6 +40,8 @@ The projects developed during the hackathon addressed challenges in **seven core
    Improving academic content creation, education tools, and accessibility to complex topics.  
    Example: Automated generation of academic presentations from research papers.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/5a8ad22666a09cb02ec5a8ed3c839fe4599ea016/Images/Picture18.jpg)
+
 5. **Research Data Management and Automation**  
    Leveraging LLMs to organize, process, and analyze large datasets.  
    Example: Automated metadata extraction and lab notebook digitization.
