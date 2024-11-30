@@ -28,6 +28,8 @@ The projects developed during the hackathon addressed challenges in **seven core
 
 ![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/4f69218ff6199e1d3472b1ea0a31e74013b3c7fc/Images/Picture13.png)
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/626472e2afde8a0af3fbddffae9dcbc957f45294/Images/learning_lobsters.png)
+
 2. **Molecular and Material Design**  
    Creating new molecules and materials using LLMs for innovation in sustainable chemistry and beyond.  
    Example: Automating peptide design and optimizing properties of metal-organic frameworks (MOFs).
