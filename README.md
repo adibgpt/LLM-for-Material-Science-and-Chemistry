@@ -73,7 +73,7 @@ The projects developed during the hackathon addressed challenges in **seven core
 
 ## How to Explore the Projects
 
-Detailed project descriptions, code, and outcomes can be found in the appendix of the corresponding [paper](link-to-paper) or the following repositories (examples):  
+Detailed project descriptions, code, and outcomes can be found in the appendix of the corresponding [paper](https://arxiv.org/abs/2411.15221) or the following repositories (examples):  
 - **Molecular Property Prediction**: [GitHub Repository](https://github.com/kaueltzen/LLM_Hackathon_2024)  
 - **Materials Design**: [GitHub Repository](https://github.com/doncamilom/mc-peptide)  
 - **Research Data Management**: [GitHub Repository](https://github.com/datalab-org/yellowhammer)
