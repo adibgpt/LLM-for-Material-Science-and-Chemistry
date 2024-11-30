@@ -91,6 +91,8 @@ The projects developed during the hackathon addressed challenges in **seven core
 3. **Interdisciplinary Collaboration**:  
    Teams from various backgrounds combined expertise to tackle challenges, fostering innovation and cross-disciplinary learning.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/a3f1bf835b2368ca304820b3e35e0c5bf5783f2d/Images/PictureMF1.png)
+
 ---
 
 ## How to Explore the Projects
