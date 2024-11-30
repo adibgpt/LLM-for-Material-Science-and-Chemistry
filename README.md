@@ -28,6 +28,8 @@ The projects developed during the hackathon addressed challenges in **seven core
    Creating new molecules and materials using LLMs for innovation in sustainable chemistry and beyond.  
    Example: Automating peptide design and optimizing properties of metal-organic frameworks (MOFs).
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/c82c96dfe3c89fa4750d04c190cc3d62624a01a3/Images/Picture11.png)
+
 3. **Automation and Novel Interfaces**  
    Building tools to automate and simplify scientific workflows.  
    Example: Natural language interfaces for simulations and microscopy.
