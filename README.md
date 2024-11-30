@@ -3,6 +3,8 @@
 
 Welcome to the repository documenting the results and reflections from the **2024 Large Language Model (LLM) Hackathon for Materials Science and Chemistry**. This event showcased innovative uses of LLMs in addressing key challenges in materials science and chemistry, demonstrating their transformative potential in scientific research and education.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/86f265211cc3c10a419a22c1b0c6ffab99d0e008/Images/PicturePolymerRAG.png)
+
 ---
 
 ## Overview
