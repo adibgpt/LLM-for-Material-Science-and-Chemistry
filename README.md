@@ -48,6 +48,8 @@ The projects developed during the hackathon addressed challenges in **seven core
    Accelerating scientific discovery by generating and testing hypotheses with LLMs.  
    Example: Bayesian evaluation of novel hypotheses in room-temperature superconductors.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/7534de4d8a58d3c6d727ea82a6db62a9f3a4cee9/Images/Picture15.png)
+
 7. **Knowledge Extraction and Reasoning**  
    Extracting structured data from unstructured scientific literature.  
    Example: Building knowledge graphs for lithium-ion battery research.
