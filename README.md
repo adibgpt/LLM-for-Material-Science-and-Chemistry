@@ -84,6 +84,8 @@ The projects developed during the hackathon addressed challenges in **seven core
 2. **Diverse and Innovative Applications**:  
    From property prediction to real-time hypothesis evaluation, the hackathon illustrated the versatility of LLMs in scientific workflows.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/e30cece4e35c02ad2136ee8e4af9d0cfbedda459/Images/PictureLLMicroscopilot.png)
+
 3. **Interdisciplinary Collaboration**:  
    Teams from various backgrounds combined expertise to tackle challenges, fostering innovation and cross-disciplinary learning.
 
