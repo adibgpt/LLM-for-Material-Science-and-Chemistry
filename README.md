@@ -48,6 +48,8 @@ The projects developed during the hackathon addressed challenges in **seven core
    Leveraging LLMs to organize, process, and analyze large datasets.  
    Example: Automated metadata extraction and lab notebook digitization.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/be007c479ac0a988083b593194321285c5baf18b/Images/PictureActiveScience1.png)
+
 6. **Hypothesis Generation and Evaluation**  
    Accelerating scientific discovery by generating and testing hypotheses with LLMs.  
    Example: Bayesian evaluation of novel hypotheses in room-temperature superconductors.
