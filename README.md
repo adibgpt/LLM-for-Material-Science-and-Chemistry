@@ -81,6 +81,8 @@ The projects developed during the hackathon addressed challenges in **seven core
 1. **Significant Improvements in LLM Capabilities**:  
    Projects demonstrated that LLMs could outperform traditional machine learning models, especially in low-data environments.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/6360a5b01af7c37133a61ecd610a2574d07d0358/Images/PictureLlama3MatSci.png)
+
 2. **Diverse and Innovative Applications**:  
    From property prediction to real-time hypothesis evaluation, the hackathon illustrated the versatility of LLMs in scientific workflows.
 
