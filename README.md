@@ -36,6 +36,8 @@ The projects developed during the hackathon addressed challenges in **seven core
    Building tools to automate and simplify scientific workflows.  
    Example: Natural language interfaces for simulations and microscopy.
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/0ce1134012f14348beba4272f500a72146c3dc0c/Images/Picture6.png)
+
 4. **Scientific Communication and Education**  
    Improving academic content creation, education tools, and accessibility to complex topics.  
    Example: Automated generation of academic presentations from research papers.
