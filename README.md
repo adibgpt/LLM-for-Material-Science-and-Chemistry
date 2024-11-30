@@ -58,6 +58,8 @@ The projects developed during the hackathon addressed challenges in **seven core
 
 ![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/62e3f951770fdc8b32953628dd30263b23b0d8c8/Images/Picture19.png)
 
+![image](https://github.com/adibgpt/LLM-for-Material-Science-and-Chemistry/blob/92289c44c207206b312a22e6bf646fe47407dc55/Images/Picture2.png)
+
 ---
 
 ## Hackathon Highlights
